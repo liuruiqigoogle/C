@@ -1,4 +1,4 @@
-//Ë³Ğò±íÄæÖÃ 
+
 void Reverse(SqList &L){
 	
 	int temp;
